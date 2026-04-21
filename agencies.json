@@ -1,0 +1,12 @@
+[
+  {
+    "company": "Jhon Doe Agency",
+    "email": "hello@acmeagency.com",
+    "url": "https://acmeagency.com"
+  },
+  {
+    "company": "Growth Bros",
+    "email": "founders@growthbros.io",
+    "url": "https://growthbros.io"
+  }
+]
