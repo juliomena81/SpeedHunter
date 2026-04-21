@@ -60,11 +60,11 @@ def send_email(company: str, target_email: str, score: int) -> bool:
     <p>Hi {company} team,</p>
     <p>I’ve been checking out your agency's work. You run great campaigns, but I just ran your site through Google Web Vitals and you're currently sitting at a <strong>{score}/100</strong> on mobile performance.</p>
     <p>You already know the math: sending 2026 paid traffic to a bloated WordPress/Elementor architecture means you're losing up to 20% of your conversions before the page even loads. If your own site is lagging, your clients' landing pages are likely leaking ad spend too.</p>
-    <p>I’m Julio, founder of Zero Delay. We act as the external, white-label engineering department for growth and performance agencies.</p>
+    <p>I’m John Doe, founder of Zero Delay. We act as the external, white-label engineering department for growth and performance agencies.</p>
     <p>We rebuild landing pages using pure native code (Astro) to guarantee sub-second load times and 100/100 PageSpeed scores. Your clients get cheaper CPAs, your campaigns scale faster, and you take all the credit.</p>
     <p>Quick proposal:<br>
     Reply to this email with the URL of your slowest client landing page. We’ll send you back a 2-minute Loom video breaking down exactly how many conversions that code bloat is costing you right now. No strings attached.</p>
-    <p>Best,<br>Julio<br>Zero Delay - Sub-second Landings for Ads<br>
+    <p>Best,<br>John Doe<br>Zero Delay - Sub-second Landings for Ads<br>
     <a href="https://zeroredirect.dev">zeroredirect.dev</a></p>
     """
 
