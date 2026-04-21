@@ -71,11 +71,11 @@ def send_email(company: str, target_email: str, score: int) -> bool:
     try:
         resend.Emails.send(
             {
-                "from": "Julio <send@zeroredirect.dev>",
+                "from": "John Doe <send@marketing.com>",
                 "to": target_email,
                 "subject": "Quick question about your mobile performance",
                 "html": html_body,
-                "reply_to": "julio@zeroredirect.dev",
+                "reply_to": "john@marketing.com",
             }
         )
         print(f"[+] SUCCESS: Email sent to {company} ({target_email}).")
