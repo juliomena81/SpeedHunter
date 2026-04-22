@@ -50,7 +50,7 @@ Create an agencias.json file in the root directory containing the companies you 
 ```json
 [
   {
-    "company": "Jhon Doe Agency",
+    "company": "John Doe Agency",
     "email": "hello@acmeagency.com",
     "url": "https://acmeagency.com"
   },
