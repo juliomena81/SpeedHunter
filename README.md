@@ -25,7 +25,7 @@ Built for performance marketing agencies, web development studios, and freelance
 **1. Clone the repository and install dependencies:**
 
 ```python
-git clone https://github.com/yourusername/SpeedHunter.git
+git clone https://github.com/juliomena81/SpeedHunter.git
 cd SpeedHunter
 
 # Using uv (as an example)
@@ -79,7 +79,7 @@ resend.Emails.send({
 })
 ```
 
-**2. Modify the cuerpo_html variable to match your own brand, name, and specific offer.**
+**2. Modify the html_body variable to match your own brand, name, and specific offer.**
 
 Once configured, run the script:
 
